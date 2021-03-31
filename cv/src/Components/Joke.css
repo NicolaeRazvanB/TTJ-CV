@@ -1,0 +1,23 @@
+.Joke{
+    margin-bottom: 20px;
+    margin-top: 30px;
+    color:#121212;
+}
+
+#JokeButton{
+    color:#6BA4CC;
+    background-color: #121212;
+    margin-bottom: 20px;
+    border-radius: 9px;
+}
+.BigBox{
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-top: 30px;
+    margin-bottom: 30px;;
+    border-style: solid;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}

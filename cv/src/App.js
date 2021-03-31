@@ -3,6 +3,8 @@ import Hero from "./Components/Hero"
 import Skills from './Components/Skills';
 import Particles from 'react-particles-js';
 import Hobbies from './Components/Hobbies';
+import Contact from './Components/Contact';
+import Joke from './Components/Joke';
 
 const particlesOptions = {
   particles: {
@@ -23,10 +25,14 @@ function App() {
           
          
     />
+    
     <Hero />
     <div style={{marginTop: '30px'}}></div>
-    <Skills />
+    <Skills/>
     <Hobbies/>
+    <Joke/>
+    <Contact/>
+    
     </div>
   );
 }

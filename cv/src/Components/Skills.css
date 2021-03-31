@@ -4,8 +4,8 @@ h5 , h3{
 
 
 /*bar graph animation */
-span{
-    color:#6BA4CC;
+.language{
+    color:#6BA4CC ;
     
   }
   
@@ -40,6 +40,7 @@ span{
     overflow: hidden;
     position: relative;
     width: 0;
+    margin-left: 10px;
   }
   
   .bar-graph-one .bar::after {
