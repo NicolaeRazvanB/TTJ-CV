@@ -7,6 +7,7 @@
 #JokeButton{
     color:#6BA4CC;
     background-color: #121212;
+    border-style: none;
     margin-bottom: 20px;
     border-radius: 9px;
 }
